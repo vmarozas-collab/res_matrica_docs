@@ -1,2 +1,2 @@
-# res_matrica_docs
-res_matrica dokumentacija
+# Resursų matrica dokumentacija
+Alpha versija
